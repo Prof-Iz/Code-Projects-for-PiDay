@@ -8,6 +8,9 @@ This folder contains a bit of processing code to demonstrate the Monte Carlo Met
 ### Fourier Transform Draw
 This folder contains MATLAB and Processing code to showcase drawing with fourier transform. The processing code is not dynamic, as in it only draws out the pre exisiting path file input into the application. The MATLAB code prompts a gui when the .m file is run to allow the participant to draw the figure out.
 
+### Pi Day Game
+Contains the python hangman game to test how many digits of Pi the participants can remember.
+
 ### Polygon Pi
 This folder contains an unfinished concept* to show how polygons present inside the circle and outside the circle, with increasing side lenght can be used to approximat the value of Pi - an ancient method used by mathematicians.
 
